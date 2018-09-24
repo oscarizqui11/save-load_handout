@@ -1,0 +1,14 @@
+﻿  j1App.cpp
+e:\universidad\2o 2o\develoment\dev_class2_handout\motor2d\j1app.cpp(295): error C2039: 'Save': no es un miembro de 'j1Module'
+  e:\universidad\2o 2o\develoment\dev_class2_handout\motor2d\j1module.h(15): note: vea la declaración de 'j1Module'
+e:\universidad\2o 2o\develoment\dev_class2_handout\motor2d\j1app.cpp(295): error C2065: 'root': identificador no declarado
+e:\universidad\2o 2o\develoment\dev_class2_handout\motor2d\j1app.cpp(295): error C2228: el operando izquierdo de '.append_child' debe tener class/struct/union
+  e:\universidad\2o 2o\develoment\dev_class2_handout\motor2d\j1app.cpp(295): note: el tipo es 'unknown-type'
+  j1Audio.cpp
+  j1Input.cpp
+  j1Main.cpp
+  j1Render.cpp
+  j1Scene.cpp
+  j1Textures.cpp
+  j1Window.cpp
+  Generando código...

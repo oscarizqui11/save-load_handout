@@ -1,0 +1,14 @@
+﻿  j1Main.cpp
+  j1App.cpp
+  j1Audio.cpp
+  j1Input.cpp
+  j1Scene.cpp
+  j1Render.cpp
+  j1Textures.cpp
+  j1Window.cpp
+  Generando código
+  0 of 253 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Motor2D.vcxproj -> E:\UNIVERSIDAD\2o 2o\Develoment\Dev_class2_handout\Release\Motor 2D.exe
