@@ -292,7 +292,7 @@ void j1App::SaveGameTrue() const
 
 	while (item != NULL)
 	{
-		item->data->Save(root.append_child(item->data->name.GetString()));
+		//item->data->Save(root.append_child(item->data->name.GetString()));
 		item = item->next;
 	}
 
